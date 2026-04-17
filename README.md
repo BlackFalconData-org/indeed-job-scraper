@@ -10,6 +10,7 @@ Extract structured job listings from Indeed across 62 markets with built-in chan
 
 
 
+
 **Search with filters** — Search by keyword and location. Filter by country, remote filter, job type, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, contact information for each listing.
@@ -19,6 +20,7 @@ Extract structured job listings from Indeed across 62 markets with built-in chan
 ---
 
 ## Use cases
+
 
 
 
@@ -87,6 +89,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
