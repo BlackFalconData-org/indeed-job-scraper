@@ -12,6 +12,7 @@ Extract structured job listings from Indeed across 62 markets with built-in chan
 
 
 
+
 **Search with filters** — Search by keyword and location. Filter by country, remote filter, job type, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, contact information for each listing.
@@ -33,6 +34,7 @@ Extract structured job listings from Indeed across 62 markets with built-in chan
 ---
 
 ## Use cases
+
 
 
 
@@ -236,6 +238,7 @@ See the [actor on Apify](https://apify.com/blackfalcondata/indeed-job-scraper?fp
 
 
 
+
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
 - [Arbeitsagentur Scraper](https://apify.com/blackfalcondata/arbeitsagentur-scraper?fpr=1h3gvi) — Germany's official job portal (1M+ listings)
@@ -243,6 +246,14 @@ See the [actor on Apify](https://apify.com/blackfalcondata/indeed-job-scraper?fp
 - [Naukri Scraper](https://apify.com/blackfalcondata/naukri-scraper?fpr=1h3gvi) — India's largest job portal
 - [Bilbasen Scraper](https://apify.com/blackfalcondata/bilbasen-scraper?fpr=1h3gvi) — Denmark's largest car marketplace
 
+---
+
+
+## About Black Falcon Data
+
+Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
+
+---
 
 ## Getting started with Apify
 
@@ -256,12 +267,6 @@ Need more volume? [See pricing](https://apify.com/pricing?fpr=1h3gvi).
 
 ---
 
-
-## About Black Falcon Data
-
-Black Falcon Data builds production-grade web scrapers for job boards and marketplace data. Browse our full actor catalog at [www.blackfalcondata.com](https://www.blackfalcondata.com).
-
----
 ---
 
 *Last updated: 2026 03*
